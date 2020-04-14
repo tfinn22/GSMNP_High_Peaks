@@ -1,7 +1,7 @@
 Thomas Finn  
+ORCID: 0000-0002-7892-6669  
 INSC590 Data Preservation Project  
 2020-04-13  
-ORCID: 0000-0002-7892-6669  
 
 # Great Smoky Mountains National Park High Peaks Dataset
 
